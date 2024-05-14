@@ -1,10 +1,6 @@
 # BackEnd
-## Using
--   NodeJS + Typescript
--   grpc + protobuf
--   MongoDB
 
-## 🔧 Installation
+## Instalasi
 Ikuti step berikut
 -   Go to `/backend` 
 -   Install the dependencies: `npm install`
